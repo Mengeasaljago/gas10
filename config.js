@@ -17,15 +17,15 @@ global.APIKeys = {
 }
 
 
-global.ownername = 'BAGAS BOT'
+global.ownername = 'BOT'
 global.autorecording = true //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['6283844909187','6283844909187','6283844909187']
-global.premium = ['6283844909187']
+global.owner = ['62895704097575','6283844909187','6283844909187']
+global.premium = ['62895704097575']
 global.packname = 'Kamu nanyaA'
-global.author = 'BAGAS CEPMEK'
+global.author = 'PIONE CEPMEK'
 global.wlcm = []
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
